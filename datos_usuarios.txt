@@ -1,0 +1,3 @@
+model name	: 12th Gen Intel(R) Core(TM) i5-12400
+model name	: 12th Gen Intel(R) Core(TM) i5-12400
+model name	: 12th Gen Intel(R) Core(TM) i5-12400
